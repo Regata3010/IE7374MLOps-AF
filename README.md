@@ -170,14 +170,6 @@ docker compose down
 docker compose down -v
 ```
 
-## Future Enhancements
-
-- Add real ML model training with scikit-learn
-- Implement data validation using Great Expectations
-- Add email notifications on failure
-- Create branching workflow based on data quality
-- Integrate with cloud storage (S3/GCS)
-- Add MLflow for experiment tracking
 
 ## Submission Details
 
